@@ -77,7 +77,7 @@ skinwise-landing/
 
 ## 📸 Preview
 
-[skinwise.vercel.app](https://skinwise.vercel.app) 
+[skinwise.vercel.app](https://skinwise-kappa.vercel.app) 
 
 ---
 
